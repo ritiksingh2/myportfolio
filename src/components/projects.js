@@ -20,7 +20,7 @@ class Projects extends Component {
              weather webapp
             </CardText>
             <CardActions border>
-              <a href=""><Button colored >GitHub</Button></a>
+             <Button colored >GitHub</Button>
               <Button colored>CodePen</Button>
              <a href="https://weatherparlu.netlify.app/"><Button colored>Live Demo</Button></a> 
             </CardActions>
